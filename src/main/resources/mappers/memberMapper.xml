@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.spring.javaProjectS12.dao.MemberDAO">
+
+
+	<select id="getContactList" resultType="com.spring.javaProjectS12.vo.InquiryVO">
+		select * from inquiry order by idx desc ;
+	</select>
+	
+	<select id="getMemberEmailCheck" resultType="com.spring.javaProjectS12.vo.MemberVO">
+		select * from stussy where email = #{email};
+	</select>
+
+	<select id="getMemberLoginCheck" resultType="com.spring.javaProjectS12.vo.MemberVO">
+		select * from stussy where email = #{email};
+	</select>
+
+	<insert id="setMemberJoinOk">
+    	insert into stussy values (default,#{vo.lastName},#{vo.name},#{vo.email},#{vo.password},default);
+    </insert>
+
+	<insert id="setInquiryOK">
+    	insert into inquiry values (default,#{vo.name},#{vo.email},#{vo.onum},#{vo.part},#{vo.content});
+    </insert>
+
+	
+    
+</mapper>

@@ -14,6 +14,9 @@
 <br/>
 <br/>
 
+### 시연
+https://youtu.be/PqXAYab7qjM
+
 ### 개발기간
 2024.01.01 - 2024.02.01
 
@@ -21,7 +24,6 @@
 <br/>
 
 ### 개발환경
-
 - 개발언어 -JAVA, JQUERY ,HTML5, CSS
 - 데이터베이스 - MySQL 8.0
 - 개발 프로그램 - Spring-tool-suit 4.14.1
@@ -31,7 +33,6 @@
 <br/>
 
 ### 요구사항 정의
-
 - 회원가입, 로그인
 - 회원가입시 정회원(level 1) 등급 부여
 - 문의사항
@@ -44,10 +45,5 @@
 
 <br/>
 <br/>
-
-### 시연
-
-
-https://youtu.be/PqXAYab7qjM
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-A0522D?style=flat-square&logo=Java&logoColor=white"/>

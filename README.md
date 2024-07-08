@@ -1,10 +1,3 @@
-
-![메인](https://github.com/tjsdud2671/javaProjectS12/assets/145426999/8064b2bd-f189-4958-be2c-3b7760f9bcc6)
-![메인2](https://github.com/tjsdud2671/javaProjectS12/assets/145426999/fac1a166-ba45-41c4-b659-2ebe8a55a079)
-
-<br/>
-<br/>
-
 ## Spring MVC 방식의 개발 실습을 위한 웹사이트 구현 프로젝트
 
 회원 가입과 로그인 / 문의사항 / 상품등록과 관리 / 관리자페이지 기능을 실습해보고자 하였습니다.
@@ -14,6 +7,12 @@
 <br/>
 <br/>
 
+
+![메인](https://github.com/tjsdud2671/javaProjectS12/assets/145426999/8064b2bd-f189-4958-be2c-3b7760f9bcc6)
+![메인2](https://github.com/tjsdud2671/javaProjectS12/assets/145426999/fac1a166-ba45-41c4-b659-2ebe8a55a079)
+
+<br/>
+<br/>
 
 
 ## 개발기간

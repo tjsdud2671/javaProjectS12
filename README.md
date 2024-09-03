@@ -65,7 +65,7 @@ https://youtu.be/PqXAYab7qjM
 
 
 관리자와 회원은 레벨 차이를 두었습니다.<br/>
-관리자가 아닌 경우 ) 로그인 후 memberPage로 전환됩니다.
+관리자가 아닌 경우 > 로그인 후 memberPage로 전환됩니다.
 
 <br/>
 <br/>
